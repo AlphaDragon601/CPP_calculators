@@ -1,0 +1,3 @@
+﻿  RackAndPinionCalculator.cpp
+H:\CPP\Test projects\calculators\rack_and_pinion\RackAndPinionCalculator\RackAndPinionCalculator\RackAndPinionCalculator.cpp(10,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  RackAndPinionCalculator.vcxproj -> H:\CPP\Test projects\calculators\rack_and_pinion\RackAndPinionCalculator\Debug\RackAndPinionCalculator.exe
